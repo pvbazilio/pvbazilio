@@ -36,9 +36,10 @@ I'm from Rio, 10 years of experience in the IT/Support field. Very keen to learn
 <br>
 <h2><strong> 🛠 &nbsp; Next Step </strong></h2>
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="scss" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="40"/> 
-
+</div>
 
 
           
@@ -50,4 +51,4 @@ I'm from Rio, 10 years of experience in the IT/Support field. Very keen to learn
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=pvbazilio&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocal&theme=blueberry_duo"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvbazilio&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvbazilio&layout=compact&theme=github_dark"/>
