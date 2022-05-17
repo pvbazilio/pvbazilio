@@ -3,10 +3,10 @@
  <p/>
 <h1 align="center"> Hello there! I'm Paulo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm from Rio, 10 years of experience in the IT/Support field. Very keen to learn, fell in love with computer programming and decided to attend Le Wagon's coding bootcamp and become a developer.
+I'm from Rio, 10 years of experience in the IT/Support field. Very keen to learn, fell in love with computer programming and decided to attend Le Wagon's coding bootcamp.
 
 
-- I’m currently learning Typescript, React, RSpec + Capybara.
+- I’m currently learning Typescript, React and RSpec.
 
 <br>
 
